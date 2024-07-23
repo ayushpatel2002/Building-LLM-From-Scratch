@@ -1,7 +1,3 @@
-Sure! Below is a professional README file content template for your project:
-
----
-
 # Large Language Model from Scratch
 
 ## Project Overview
@@ -18,3 +14,8 @@ The dataset used for training the LLM will be the text of "Pride and Prejudice" 
 - **Author**: Jane Austen
 - **Publication Year**: 1813
 - **Source**: [Project Gutenberg](https://www.gutenberg.org/ebooks/1342)
+
+<b>
+## Future Developments
+
+We appreciate your interest in this project. This project is in its early stages, and we are just beginning to build and refine the model. Please hang in there for further developments. Upcoming updates will include detailed documentation, extended capabilities, and additional resources to support and showcase the LLM's potential. Stay tuned!
